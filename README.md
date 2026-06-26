@@ -164,5 +164,28 @@ Copyright (c) 2026 Aryan Bhalsing
 
 This project is inspired by multiple open-source and academic works on face recognition attendance systems using Python and OpenCV.
 
+---
 
+### 📫 Contact & Socials
+
+<p align="center">
+  <a href="mailto:aryanbhalsing7090@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aryanbhalsing7090%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/iamaryanbhalsing">
+    <img src="https://img.shields.io/badge/LinkedIn-iamaryanbhalsing-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/iamaryanbhalsing">
+    <img src="https://img.shields.io/badge/GitHub-iamaryanbhalsing-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://leetcode.com/iamaryanbhalsing">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamaryanbhalsing&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
